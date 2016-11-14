@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 162b78f9caeb24b4e8ce418ce4bc781f
+timeCreated: 1477398575
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GL_pushboxanimation_0
+    21300002: GL_pushboxanimation_1
+    21300004: GL_pushboxanimation_2
+    21300006: GL_pushboxanimation_3
+    21300008: GL_pushboxanimation_4
+    21300010: GL_pushboxanimation_5
+    21300012: GL_pushboxanimation_6
+    21300014: GL_pushboxanimation_7
+    21300016: GL_pushboxanimation_8
+    21300018: GL_pushboxanimation_9
+    21300020: GL_pushboxanimation_10
+    21300022: GL_pushboxanimation_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GL_pushboxanimation_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 113
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 109
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 109
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 107
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 107
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 20
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 19
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 17
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_pushboxanimation_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 15
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

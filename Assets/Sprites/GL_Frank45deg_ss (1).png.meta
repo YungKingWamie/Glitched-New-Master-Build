@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 8178f5e11a64b42439fd8662394bd6e5
+timeCreated: 1474988840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GL_Frank45deg_ss (1)_0
+    21300002: GL_Frank45deg_ss (1)_1
+    21300004: GL_Frank45deg_ss (1)_2
+    21300006: GL_Frank45deg_ss (1)_3
+    21300008: GL_Frank45deg_ss (1)_4
+    21300010: GL_Frank45deg_ss (1)_5
+    21300012: GL_Frank45deg_ss (1)_6
+    21300014: GL_Frank45deg_ss (1)_7
+    21300016: GL_Frank45deg_ss (1)_8
+    21300018: GL_Frank45deg_ss (1)_9
+    21300020: GL_Frank45deg_ss (1)_10
+    21300022: GL_Frank45deg_ss (1)_11
+    21300024: GL_Frank45deg_ss (1)_12
+    21300026: GL_Frank45deg_ss (1)_13
+    21300028: GL_Frank45deg_ss (1)_14
+    21300030: GL_Frank45deg_ss (1)_15
+    21300032: GL_Frank45deg_ss (1)_16
+    21300034: GL_Frank45deg_ss (1)_17
+    21300036: GL_Frank45deg_ss (1)_18
+    21300038: GL_Frank45deg_ss (1)_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 265
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 265
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 264
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 265
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 183
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 182
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 182
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 182
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 182
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 105
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 104
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 24
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 23
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 24
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Frank45deg_ss (1)_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 23
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

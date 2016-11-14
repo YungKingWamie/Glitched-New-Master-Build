@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 9a0f9318a396b415ca60386aaf05a395
+timeCreated: 1474988549
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_0
+    21300002: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_1
+    21300004: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_2
+    21300006: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_3
+    21300008: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_4
+    21300010: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_5
+    21300012: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_6
+    21300014: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_7
+    21300016: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_8
+    21300018: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_9
+    21300020: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_10
+    21300022: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_11
+    21300024: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_12
+    21300026: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_13
+    21300028: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_14
+    21300030: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_15
+    21300032: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_16
+    21300034: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_17
+    21300036: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_18
+    21300038: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 188
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 187
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 187
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 185
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 186
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 137
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 138
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 138
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 136
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 137
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 71
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 17
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 17
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_frankW_spritesheet_walk_full walkwitharm_ver.001_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

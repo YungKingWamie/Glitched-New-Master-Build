@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: f41b0e6cd47bd4c1cb7bfbd8ecac83ef
+timeCreated: 1475543139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GL_Enemy1-fullanimation_FINAL_ver.001_0
+    21300002: GL_Enemy1-fullanimation_FINAL_ver.001_1
+    21300004: GL_Enemy1-fullanimation_FINAL_ver.001_2
+    21300006: GL_Enemy1-fullanimation_FINAL_ver.001_3
+    21300008: GL_Enemy1-fullanimation_FINAL_ver.001_4
+    21300010: GL_Enemy1-fullanimation_FINAL_ver.001_5
+    21300012: GL_Enemy1-fullanimation_FINAL_ver.001_6
+    21300014: GL_Enemy1-fullanimation_FINAL_ver.001_7
+    21300016: GL_Enemy1-fullanimation_FINAL_ver.001_8
+    21300018: GL_Enemy1-fullanimation_FINAL_ver.001_9
+    21300020: GL_Enemy1-fullanimation_FINAL_ver.001_10
+    21300022: GL_Enemy1-fullanimation_FINAL_ver.001_11
+    21300024: GL_Enemy1-fullanimation_FINAL_ver.001_12
+    21300026: GL_Enemy1-fullanimation_FINAL_ver.001_13
+    21300028: GL_Enemy1-fullanimation_FINAL_ver.001_14
+    21300030: GL_Enemy1-fullanimation_FINAL_ver.001_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 75
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 134
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 71
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 135
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 70
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 135
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 70
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 134
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 78
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GL_Enemy1-fullanimation_FINAL_ver.001_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
